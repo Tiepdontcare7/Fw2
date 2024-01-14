@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "tieptn"
+    },
+    {
+      "name": "tieptn3",
+      "price": 5000,
+      "id": 2
+    },
+    {
+      "name": "tieptn3",
+      "price": 5000,
+      "id": 3
+    }
+  ]
+}
